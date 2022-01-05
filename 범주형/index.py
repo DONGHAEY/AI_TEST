@@ -8,6 +8,15 @@ import seaborn as sns
 
 iris = load_iris() #iris 데이터를 불러온다
 print(iris.keys()) #iris 데이터프레임의 속성값을 확인한다
+
+"""
+data : 피처의 데이터 세트 , numpy 배열
+target : 분류 시 레이블 값, 회귀일 때는 숫자 결과값 데이터 Set
+target_names : 개별 레이블의 이름
+feature_names : 피처의 이름
+DESCR : 데이터 세트에 대한 설명과 각 피처의 설명
+"""
+
 print(iris['DESCR'])
 
 print(iris['data']) #이 특성들의 데이터의 
