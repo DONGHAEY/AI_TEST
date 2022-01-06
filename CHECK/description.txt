@@ -1,0 +1,3 @@
+This directory was created to test different machine learning algorithms and decide which one is best for you.
+
+이 디렉토리는 다양한 기계 학습 알고리즘을 테스트하고 가장 적합한 알고리즘을 결정하기 위해 만들어졌습니다.

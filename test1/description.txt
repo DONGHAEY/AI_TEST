@@ -1,0 +1,3 @@
+This directory is where the modified training data is placed to increase the accuracy of machine learning.
+
+이 디렉토리는 머신러닝 정확도를 테스트하기 위해 수정된 학습 데이터가 있는 곳입니다. **test.csv***
