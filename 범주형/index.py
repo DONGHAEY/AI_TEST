@@ -88,7 +88,6 @@ for col in model_pdf.columns :
   gh(col)
 
 
-
 model_acc = {} 
 
 for key in Machine_model_dic.keys() :
